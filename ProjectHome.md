@@ -1,0 +1,1 @@
+Intended for integration into the Geophysical Institute Seismic Matlab Object (GISMO) project. Codes available here are built upon the Waveform Suite.
